@@ -14,7 +14,7 @@ public class Main {
             if (i == 1) {
                 System.out.println(i + " is not a prime number");
             }
-            else if (i ==2 || i==3){
+            else if (i ==2 || i==3 || i ==5){
 
                 System.out.println(i +" is a prime number");
             }
